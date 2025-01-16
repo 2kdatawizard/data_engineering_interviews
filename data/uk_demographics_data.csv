@@ -1,0 +1,17 @@
+age,age_band,average_income,employment_rate,urban_population_percentage
+17,Youth,8000,30%,75%
+18,Youth,8500,32%,78%
+19,Youth,9000,34%,80%
+20,Youth,9500,36%,82%
+21,Youth,10000,38%,84%
+22,Youth,10500,40%,85%
+23,Youth,11000,42%,86%
+24,Adult,11500,44%,88%
+25,Adult,12000,46%,90%
+30,Adult,15000,70%,92%
+35,Adult,18000,72%,90%
+40,Adult,20000,75%,88%
+45,Adult,22000,77%,85%
+50,Senior,23000,78%,80%
+55,Senior,24000,79%,75%
+60,Senior,25000,80%,70%
